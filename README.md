@@ -1,2 +1,2 @@
-# student
-python with machine learning
+# 
+python, machine learning,opencv, java ,html ,css, c
